@@ -1,4 +1,4 @@
-Web Automation
+Web Automation  
 The idea of this is to create a small UI test automation suite, for a popular website (www.IMDb.com),  
 using a tool/standard of your choice (preferably Selenium, or equivalent).
 
