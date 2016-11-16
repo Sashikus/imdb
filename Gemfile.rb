@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'cucumber'
+gem 'rspec', '~> 3.5'
+gem 'selenium-webdriver'
+gem 'test-unit'
+gem 'pry-byebug', '~> 3.2'
+gem 'hashie', '~> 3.4'
+gem 'rake', '~> 11.2'
